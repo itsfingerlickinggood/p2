@@ -4,7 +4,7 @@
 <main>
   <div class="video-section" id="video1">
     <video autoplay muted loop class="video-background">
-      <source src="assets/vid1.mp4" type="video/mp4" />
+      <source src="src/assets/vid1.mp4" type="video/mp4" />
     </video>
     <div class="overlay-text">
       <h1>Posterity.</h1>
@@ -14,14 +14,14 @@
 
   <div class="video-section" id="video2">
     <video autoplay muted loop class="video-background">
-      <source src="assets/vid2.mp4" type="video/mp4" />
+      <source src="src/assets/vid2.mp4" type="video/mp4" />
     </video>
     <div class="overlay-text">Hope.</div>
   </div>
 
   <div class="video-section" id="video3">
     <video autoplay muted loop class="video-background">
-      <source src="assets/vid3.mp4" type="video/mp4" />
+      <source src="src/assets/vid3.mp4" type="video/mp4" />
     </video>
     <div class="overlay-text">
       "Mankind Was Born On Earth. It Was Never Meant To Die Here."
@@ -30,7 +30,7 @@
 
   <div class="video-section" id="video4">
     <video autoplay muted loop class="video-background">
-      <source src="assets/vid4.mp4" type="video/mp4" />
+      <source src="src/assets/vid4.mp4" type="video/mp4" />
     </video>
     <div class="overlay-text">
       "We Used To Look Up At The Sky And Wonder At Our Place In The Stars. Now,
@@ -40,7 +40,7 @@
 
   <div class="video-container">
     <video autoplay muted loop class="video-background">
-      <source src="assets/vid.mp4" type="video/mp4" />
+      <source src="src/assets/vid.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
     <a
